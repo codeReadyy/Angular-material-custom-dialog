@@ -1,0 +1,8 @@
+<md-dialog layout-padding>
+  <h2>Custom  Dialog</h2>
+  <p>
+    You can keep your custom template here.
+    <b>The value from locals option:</b> <i><u>"{{passedAsLocals}}..."</u></i>
+  </p>
+  <md-button ng-click=close()>Close</md-button>
+</md-dialog>
